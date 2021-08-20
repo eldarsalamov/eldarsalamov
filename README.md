@@ -3,7 +3,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://t.me/marsell1999)
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=social&logo=instagram)](https://www.instagram.com/6ldar/)
-[![mail.ru](https://img.shields.io/badge/eldar_salamov1999@mail.ru-red?style=social&logo=mail.ru)](#)
+[![mail.ru](https://img.shields.io/badge/eldar_salamov1999@mail.ru-red?style=social&logo=mail.ru)](https://mail.ru/eldar_salamov1999/)
 
 [comment]: <> (<!-- [![mail.ru]&#40;https://img.shields.io/badge/live:saythanov2014-red?style=social&logo=skype&#41;]&#40;#&#41; -->)
 

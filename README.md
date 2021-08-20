@@ -1,5 +1,5 @@
-#Приветствую вас на моем GitHub, с вами Эльдар! 
-##Связаться со мной:
+Приветствую вас на моем GitHub, с вами Эльдар! 
+Связаться со мной:
 
 [![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://t.me/marsell1999)
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=social&logo=instagram)](https://www.instagram.com/6ldar/)

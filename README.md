@@ -1,4 +1,4 @@
-#Ассаламу алейкум всем!!! приветствую вас на моем GitHub, с вами Umar
+#Приветствую вас на моем GitHub, с вами Эльдар! 
 ##Связаться со мной:
 
 [![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://t.me/marsell1999)

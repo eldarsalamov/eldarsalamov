@@ -10,7 +10,7 @@
 Мои проекты:
 Командный проект ChildDiar
 
-[код]https://github.com/eldarsalamov/ChildDiar
+[код](https://github.com/eldarsalamov/ChildDiar)
 
 [демо](https://deploy-mern-child.herokuapp.com/)
 
